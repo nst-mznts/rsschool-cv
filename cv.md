@@ -7,9 +7,13 @@
 ##### __Contact information:__
 
 __Phone:__ +90 531 3121728
+
 __E-mail:__ a.mezentseva@hotmail.com
+
 [Telegram](https://t.me/Nastasien)
+
 [Behance](https://www.behance.net/nst_mznts)
+
 [Linkedin](linkedin.com/in/anastasiia-mezentseva-5b23b4234)
 
 ---
