@@ -1,0 +1,43 @@
+body {
+  margin: auto;
+  width: 90%;
+  padding: 10px;
+}
+header {
+  background-color: #D6CBFE;
+}
+main {
+  font-family: 'Open Sans', sans-serif;
+}
+footer {
+  line-height: 25px;
+  background-color: #FAEA68;
+}
+p, li {
+  font-size: 16px;
+  color: rgb(68, 68, 68);
+  line-height: 20px;
+}
+h2 {
+  font-size: 24px;
+  color: #7350AA;
+}
+h3 {
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+}
+#logo {
+  width: 100px;
+}
+#certificate {
+  width: 300px;
+}
+a:link {
+  color: rgb(68, 68, 68);
+}
+a:visited {
+  color: rgb(186, 85, 211);
+}
+a:hover {
+  color: rgb(255, 105, 180);
+  }
